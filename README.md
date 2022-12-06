@@ -23,9 +23,8 @@ api_101%  docker-compose up -d
 # Test api
 localhost:5005/
 
-URL endpoints added during lab
-localhost:5004/name
-localhost:5004/add/6/3
-localhost:5004/subtract/6/3
-localhost:5004/multiply/6/3
-localhost:5004/divide/6/3
+# localhost:5004/name
+- localhost:5004/add/6/3
+- localhost:5004/subtract/6/3
+- localhost:5004/multiply/6/3
+- localhost:5004/divide/6/3
